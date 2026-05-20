@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██████╗ ██████╗  █████╗ ██╗███╗   ██╗██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║╚██╗ ██╔╝
-██████╔╝██████╔╝███████║██║██╔██╗ ██║ ╚████╔╝
-██╔══██╗██╔══██╗██╔══██║██║██║╚██╗██║  ╚██╔╝
-██████╔╝██║  ██║██║  ██║██║██║ ╚████║   ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝
-```
-
 *local ai. automation. systems. clean architecture.*
 
 </div>
@@ -62,12 +53,16 @@ Currently deep in: **Go · C# · local LLMs · terminal tooling · automation sy
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainMell&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrainMell&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrainMell&theme=tokyonight" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrainMell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
