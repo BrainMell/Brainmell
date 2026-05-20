@@ -10,7 +10,7 @@
 
 Computer Engineering student at **GCTU** — building things that go deeper than the surface.  
 I care about how things work under the hood: from multi-agent orchestration layers down to low-level execution.  
-No hand-holding. No fluff. Just functional, architecturally sound code.
+I'm really into architecturally sound code.
 
 Currently deep in: **Go · C# · local LLMs · terminal tooling · automation systems**
 
