@@ -1,6 +1,6 @@
 <div align="center">
 
-*local ai. automation. systems. clean architecture.*
+*BrainMell*
 
 </div>
 
