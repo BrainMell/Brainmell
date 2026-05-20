@@ -1,5 +1,5 @@
 <div align="center">
-  <p>....BrainMell....</p>
+  <p>local ai. automation. systems. clean architecture.</p>
 </div>
 
 ### 🧠 About
@@ -11,18 +11,10 @@ No hand-holding. No fluff. Just functional, architecturally sound code.
 Currently deep in: Go · C# · local LLMs · terminal tooling · automation systems
 
 ### ⚙️ Languages
-- Go
-- C#
-- JavaScript / TypeScript
-- C++
-- MATLAB
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=38BDF8) ![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=c-sharp&logoColor=38BDF8) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=38BDF8) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=38BDF8) ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=38BDF8)
 
 ### 📦 Libraries & Frameworks
-- **Rod (Go)** — Devtools driver for web automation and scraping
-- **Playwright** — End-to-end testing and browser automation
-- **Baileys** — WhatsApp Web API library
-- **.NET / WinForms** — Desktop application ecosystem
-- **Node.js** — Backend and CLI tooling
+![Rod](https://img.shields.io/badge/Rod%20(Go)-0D1117?style=flat-square&logo=go&logoColor=38BDF8) ![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=38BDF8) ![Baileys](https://img.shields.io/badge/Baileys-0D1117?style=flat-square&logo=whatsapp&logoColor=38BDF8) ![.NET / WinForms](https://img.shields.io/badge/.NET%20%2F%20WinForms-0D1117?style=flat-square&logo=.net&logoColor=38BDF8) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
 
 ### 🚧 What I'm Building
 - **OatmealCli** — Multi-agent orchestration tool. Go backend agent layer bridging via TCP to a Node.js TUI. Account failover logic for Claude. Built for reliability, not demos.
