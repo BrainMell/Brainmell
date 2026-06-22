@@ -54,6 +54,8 @@ Currently deep in: **Go · C# · local LLMs · terminal tooling · automation sy
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainMell&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainMell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" alt="Most Used Languages" />
 </div>
 
 ---
