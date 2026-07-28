@@ -8,7 +8,7 @@
 
 ### 🧠 About
 
-Computer Engineering student at **GCTU** — building things that go deeper than the surface.  
+Computer Engineering student at **GCTU** building things that go deeper than the surface.  
 I care about how things work under the hood: from multi-agent orchestration layers down to low-level execution.  
 I'm really into architecturally sound code.
 
