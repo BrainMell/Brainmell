@@ -40,16 +40,6 @@ Currently deep in: **Go · C# · local LLMs · terminal tooling · automation sy
 
 ---
 
-### 🚧 What I'm Building
-
-**`OatmealCli`** — Multi-agent orchestration tool. Go backend agent layer bridging via TCP to a Node.js TUI. Account failover logic for Claude. Built for reliability, not demos.
-
-**`Automation Bots`** — WhatsApp bots with custom command-correction logic. CLI utilities, scrapers, low-overhead terminal interfaces.
-
-**`Oatmeal`** — Local AI chatbot. Llama 2 under the hood. Custom WinForms UI, .NET ecosystem, CUDA-accelerated. Because running AI locally actually matters.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
